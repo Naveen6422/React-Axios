@@ -102,7 +102,13 @@ body {
 .container .card:hover .box .content p {
   color: rgba(255, 255, 255, 1);
 }
-
+h2{
+  text-align: center;
+  font-size: 1.8em;
+    color: rgba(255, 255, 255, 0.5);
+    margin-top: 30px;
+  
+}
 .container .card .box .content a {
   position: relative;
   display: inline-block;
